@@ -2,7 +2,7 @@
 
 ##############################################################
 
-minimus32.name=Minimus 32
+minimus32.name=Minimus32(ATmega32U2)
 minimus32.vid.0=0x2341
 minimus32.pid.0=0x0036
 minimus32.vid.1=0x2341
@@ -36,7 +36,7 @@ minimus32.build.extra_flags={build.usb_flags}
 
 ##############################################################
 
-minimus16.name=Minimus 16
+minimus16.name=Minimus16(ATmega16U2)
 minimus16.vid.0=0x2341
 minimus16.pid.0=0x0036
 minimus16.vid.1=0x2341
