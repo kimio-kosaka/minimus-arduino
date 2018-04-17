@@ -25,6 +25,23 @@
             {"name": "Minimus 32"},{"name": "Minimus 16"}
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "minimus-arduino",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/kimio-kosaka/minimus-arduino/archive/v1.0.1.tar.gz",
+          "archiveFileName": "minimus-arduino-1.0.1.tar.gz",
+          "checksum": "SHA-256:6447c64dacb72b7f6540d49ec36b9f6c5305a3448b3703d4de7b353fa5fbdd02",
+          "size": "88913",
+          "boards": [
+            {"name": "Minimus 32"},{"name": "Minimus 16"}
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
