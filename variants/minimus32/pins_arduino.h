@@ -47,6 +47,7 @@ usb_rxtx_update_leds(uint8_t state, uint8_t mask)
 }
 
 #define USB_RXTX_LED_PIN 7
+#define LED_BUILTIN 13
 
 // Use LED A (D7 - PD6) for USB activity
 #define TX_RX_LED_INIT DDRD |= (1<<6), PORTD |= (1<<6)
